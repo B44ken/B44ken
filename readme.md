@@ -8,4 +8,4 @@
 
 **what i care about:** impact. i want to be able to point at something cool and say "i did that".
 
-**who i am**: outspoken. team player. fail-first. learner. not particularly philosophical.
+**who i am**: outspoken. team player. fail-fast. learner. not particularly philosophical.
