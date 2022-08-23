@@ -1,4 +1,4 @@
-# brad boratto
+# [brad boratto](https://p27.ca)
 
 **what i like:** snappy everything's-at-your-fingertips user experiences (read: terminals)
 
