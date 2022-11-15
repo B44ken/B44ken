@@ -1,5 +1,5 @@
-# [brad boratto](https://p27.ca)
-
+# [brad boratto](https://boratto.ca)
+<!--
 **what i like:** snappy everything's-at-your-fingertips user experiences (read: terminals)
 
 **what i use:** the web, more often than not. javascript, c, python, and go (in that order). linux (desktop, too!).
@@ -9,3 +9,4 @@
 **what i care about:** impact. i want to be able to point at something cool and say "i did that".
 
 **who i am**: outspoken. team player. fail fast and do better next time. learner. not particularly philosophical.
+-->
